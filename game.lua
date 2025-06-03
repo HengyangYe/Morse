@@ -48,7 +48,7 @@ game.signalWaves = {}
 
 -- 初始化
 function game.init()
-  love.window.setTitle("Titanic – Visual SOS Relay")
+  love.window.setTitle("Titanic – Motanic ")
   love.window.setMode(1200, 800)  -- 更大的窗口
   love.graphics.setBackgroundColor(0,0,0)
   
