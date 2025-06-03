@@ -1,4 +1,4 @@
-# Titanic SOS Relay - Game Prototype
+# Motanic - Game Prototype
 
 A one-button morse code game based on the historical Titanic disaster, featuring procedurally generated content and strict black-and-white aesthetics.
 
