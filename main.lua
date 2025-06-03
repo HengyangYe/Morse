@@ -1,4 +1,4 @@
--- Titanic SOS Relay - 主文件
+-- Titanic – Motanic  - 主文件
 
 local game = require("game")
 local visual = require("visual") 
