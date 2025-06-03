@@ -1,7 +1,5 @@
 -- Titanic SOS Relay - 主文件
--- 加载各个模块并初始化游戏
 
--- 加载模块
 local game = require("game")
 local visual = require("visual") 
 local morse = require("morse")

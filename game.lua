@@ -25,14 +25,14 @@ game.targetText = ""
 game.targetMorse = ""
 game.trimmed = ""
 game.interference = 0
-game.lastInterference = 0  -- 添加这个初始化
+game.lastInterference = 0 
 game.winShip = ""  -- 记录哪艘船到达了
 
 -- 救援船（远离开始位置）
 game.ships = {
-  { name = "Carpathia",  eta0 = 120, x = -100, y = 400 },      -- 2分钟（原4分钟）
-  { name = "Californian",eta0 = 180, x = 1300, y = 450 },     -- 3分钟（原6分钟）
-  { name = "Olympic",    eta0 = 240, x = 600, y = 900 }       -- 4分钟（原8分钟）
+  { name = "Carpathia",  eta0 = 120, x = -100, y = 400 },      -- 2分钟
+  { name = "Californian",eta0 = 180, x = 1300, y = 450 },     -- 3分钟
+  { name = "Olympic",    eta0 = 240, x = 600, y = 900 }       -- 4分钟
 }
 
 -- 泰坦尼克号
